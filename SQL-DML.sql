@@ -1,3 +1,4 @@
+-- Data Manipulation Language
 INSERT INTO `drinks` (`name`, `price`, `cost`)
 VALUES
 ('阿華田', 65, 20),
